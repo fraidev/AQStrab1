@@ -1,4 +1,4 @@
-package br.com.fsma.aqstrab1.tx;
+package aqstrab1.tx;
 
 import java.io.Serializable;
 

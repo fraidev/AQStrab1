@@ -1,4 +1,4 @@
-package br.com.fsma.aqstrab1.util;
+package aqstrab1.util;
 
 import javax.faces.application.NavigationHandler;
 import javax.faces.context.FacesContext;

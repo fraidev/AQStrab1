@@ -4,7 +4,7 @@
 	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_2.xsd">
 
 	<lifecycle>
-		<phase-listener>br.com.fsma.aqstrab1.util.Autorizador</phase-listener>
+		<phase-listener>aqstrab1.util.Autorizador</phase-listener>
 	</lifecycle>
 
 	<!-- Configuração que permite ao Primefaces usar formulários como diálogo -->

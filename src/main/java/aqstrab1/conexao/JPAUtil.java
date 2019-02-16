@@ -1,4 +1,4 @@
-package br.com.fsma.aqstrab1.conexao;
+package aqstrab1.conexao;
 
 import javax.enterprise.context.RequestScoped;
 import javax.enterprise.inject.Disposes;

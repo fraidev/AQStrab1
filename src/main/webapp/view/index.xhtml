@@ -5,16 +5,19 @@
 	xmlns:f="http://xmlns.jcp.org/jsf/core">
 <h:head>
 	<meta charset="UTF-8" />
-	<title>Projeto Web - Login</title>
+	<title>AQStrab1</title>
 	<link type="text/css" rel="stylesheet"	href="#{facesContext.externalContext.requestContextPath}/resources/css/estilo.css" />
 </h:head>
 
 <h:body>
 	<h:form id="frmLogin" >
 		<p:messages autoUpdate="true" showDetail="true"/>
-		<p:panel header="Autenticação de Usuário" style="width: 30%;">
+		<p:panel header="AQStrab1" style="width: 30%;">
 			<h:panelGrid columns="2" style="width: 100%;">
+			<p:outputLabel value="Excel:"  />
+    		<p:fileUpload value="#{fileUploadView.file}" mode="simple" skinSimple="true"/>
 			<p:spacer />
+    		<p:commandButton value="Submit" ajax="false" action="#{fileUploadView.upload}" disabled="true" />
 			</h:panelGrid>
 		</p:panel>
 	</h:form>

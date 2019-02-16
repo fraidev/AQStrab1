@@ -1,5 +1,5 @@
-C:\Git\OpenSource\AQStrab1\src\main\java\br\com\fsma\aqstrab1\tx\GerenciadorDeTransacao.java
-C:\Git\OpenSource\AQStrab1\src\main\java\br\com\fsma\aqstrab1\conexao\JPAUtil.java
-C:\Git\OpenSource\AQStrab1\src\main\java\br\com\fsma\aqstrab1\util\Autorizador.java
-C:\Git\OpenSource\AQStrab1\src\main\java\br\com\fsma\aqstrab1\tx\Transacional.java
-C:\Git\OpenSource\AQStrab1\src\main\java\br\com\fsma\aqstrab1\bean\LoginBean.java
+C:\Git\OpenSource\AQStrab1\src\main\java\aqstrab1\bean\LoginBean.java
+C:\Git\OpenSource\AQStrab1\src\main\java\aqstrab1\conexao\JPAUtil.java
+C:\Git\OpenSource\AQStrab1\src\main\java\aqstrab1\tx\Transacional.java
+C:\Git\OpenSource\AQStrab1\src\main\java\aqstrab1\util\Autorizador.java
+C:\Git\OpenSource\AQStrab1\src\main\java\aqstrab1\tx\GerenciadorDeTransacao.java
