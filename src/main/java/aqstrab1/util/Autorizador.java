@@ -1,4 +1,4 @@
-package util;
+package aqstrab1.util;
 
 import javax.faces.application.NavigationHandler;
 import javax.faces.context.FacesContext;
@@ -19,7 +19,8 @@ public class Autorizador implements PhaseListener {
 		System.out.println("Nome da página: " + nomePagina);
 		if (nomePagina.endsWith("/login/login.xhtml") ||
 			nomePagina.endsWith("/login/recuperarSenha.xhtml") || 
-			nomePagina.endsWith("/login/novoLogin.xhtml")) {
+			nomePagina.endsWith("/login/novoLogin.xhtml") || 
+			nomePagina.endsWith("/view/index.xhtml")) {
 			return;
 		}
 		

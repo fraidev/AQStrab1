@@ -1,4 +1,4 @@
-package conexao;
+package aqstrab1.conexao;
 
 import javax.enterprise.context.RequestScoped;
 import javax.enterprise.inject.Disposes;
@@ -10,7 +10,7 @@ import javax.persistence.Persistence;
 public class JPAUtil {
 	
 	private static EntityManagerFactory emf = Persistence
-		.createEntityManagerFactory("postgres-local");
+		.createEntityManagerFactory("postgres");
 
 	@Produces
 	@RequestScoped

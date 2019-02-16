@@ -1,5 +1,12 @@
-C:\Git\OpenSource\AQStrab1\src\main\java\aqstrab1\bean\LoginBean.java
+C:\Git\OpenSource\AQStrab1\src\main\java\aqstrab1\domain\Uf.java
+C:\Git\OpenSource\AQStrab1\src\main\java\aqstrab1\dao\EmpresaDAO.java
+C:\Git\OpenSource\AQStrab1\src\main\java\aqstrab1\dao\DAO.java
+C:\Git\OpenSource\AQStrab1\src\main\java\aqstrab1\domain\Empresa.java
+C:\Git\OpenSource\AQStrab1\src\main\java\aqstrab1\bean\IndexBean.java
 C:\Git\OpenSource\AQStrab1\src\main\java\aqstrab1\conexao\JPAUtil.java
+C:\Git\OpenSource\AQStrab1\src\main\java\aqstrab1\domain\Bairro.java
+C:\Git\OpenSource\AQStrab1\src\main\java\aqstrab1\domain\Fiscalisacao.java
 C:\Git\OpenSource\AQStrab1\src\main\java\aqstrab1\tx\Transacional.java
 C:\Git\OpenSource\AQStrab1\src\main\java\aqstrab1\util\Autorizador.java
+C:\Git\OpenSource\AQStrab1\src\main\java\aqstrab1\domain\Cidade.java
 C:\Git\OpenSource\AQStrab1\src\main\java\aqstrab1\tx\GerenciadorDeTransacao.java

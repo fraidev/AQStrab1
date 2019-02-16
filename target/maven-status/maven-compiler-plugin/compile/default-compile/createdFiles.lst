@@ -1,5 +1,12 @@
-aqstrab1\conexao\JPAUtil.class
+aqstrab1\domain\Fiscalisacao.class
+aqstrab1\domain\Uf.class
 aqstrab1\util\Autorizador.class
+aqstrab1\bean\IndexBean.class
+aqstrab1\dao\DAO.class
+aqstrab1\domain\Bairro.class
+aqstrab1\domain\Cidade.class
+aqstrab1\conexao\JPAUtil.class
 aqstrab1\tx\Transacional.class
-aqstrab1\bean\LoginBean.class
+aqstrab1\dao\EmpresaDAO.class
+aqstrab1\domain\Empresa.class
 aqstrab1\tx\GerenciadorDeTransacao.class

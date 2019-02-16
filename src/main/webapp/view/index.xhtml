@@ -15,9 +15,8 @@
 		<p:panel header="AQStrab1" style="width: 30%;">
 			<h:panelGrid columns="2" style="width: 100%;">
 			<p:outputLabel value="Excel:"  />
-    		<p:fileUpload value="#{fileUploadView.file}" mode="simple" skinSimple="true"/>
 			<p:spacer />
-    		<p:commandButton value="Submit" ajax="false" action="#{fileUploadView.upload}" />
+    		<p:commandButton value="Submit" ajax="false" action="#{indexBean.upload()}" />
 			</h:panelGrid>
 		</p:panel>
 	</h:form>

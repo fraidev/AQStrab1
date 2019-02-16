@@ -16,7 +16,7 @@
 
 	<!-- Lista de dependências do projeto -->
 	<dependencies>
-
+       
 		<!-- JSF API -->
 		<!-- https://mvnrepository.com/artifact/com.sun.faces/jsf-api/2.2.14 -->
 		<dependency>
