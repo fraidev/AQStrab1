@@ -1,4 +1,4 @@
-package aqstrab1.tx;
+package tx;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

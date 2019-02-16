@@ -1,4 +1,4 @@
-package aqstrab1.conexao;
+package conexao;
 
 import javax.enterprise.context.RequestScoped;
 import javax.enterprise.inject.Disposes;

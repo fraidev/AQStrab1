@@ -1,4 +1,4 @@
-package aqstrab1.util;
+package util;
 
 import javax.faces.application.NavigationHandler;
 import javax.faces.context.FacesContext;

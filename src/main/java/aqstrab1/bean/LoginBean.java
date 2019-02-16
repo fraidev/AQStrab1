@@ -1,4 +1,4 @@
-package aqstrab1.bean;
+package bean;
 
 import java.io.Serializable;
 

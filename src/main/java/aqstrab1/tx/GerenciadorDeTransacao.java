@@ -1,4 +1,4 @@
-package aqstrab1.tx;
+package tx;
 
 import java.io.Serializable;
 
