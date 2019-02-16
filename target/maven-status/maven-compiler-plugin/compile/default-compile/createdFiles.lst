@@ -1,0 +1,8 @@
+br\com\fsma\projeto_web\util\Autorizador.class
+br\com\fsma\projeto_web\modelo\dao\UsuarioDao.class
+br\com\fsma\projeto_web\modelo\dao\DAO.class
+br\com\fsma\projeto_web\tx\GerenciadorDeTransacao.class
+br\com\fsma\projeto_web\bean\LoginBean.class
+br\com\fsma\projeto_web\modelo\negocio\Usuario.class
+br\com\fsma\projeto_web\tx\Transacional.class
+br\com\fsma\projeto_web\conexao\JPAUtil.class
