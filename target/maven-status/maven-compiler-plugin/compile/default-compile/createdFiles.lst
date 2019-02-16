@@ -1,8 +1,5 @@
-br\com\fsma\projeto_web\util\Autorizador.class
-br\com\fsma\projeto_web\modelo\dao\UsuarioDao.class
-br\com\fsma\projeto_web\modelo\dao\DAO.class
-br\com\fsma\projeto_web\tx\GerenciadorDeTransacao.class
-br\com\fsma\projeto_web\bean\LoginBean.class
-br\com\fsma\projeto_web\modelo\negocio\Usuario.class
-br\com\fsma\projeto_web\tx\Transacional.class
-br\com\fsma\projeto_web\conexao\JPAUtil.class
+br\com\fsma\aqstrab1\tx\GerenciadorDeTransacao.class
+br\com\fsma\aqstrab1\tx\Transacional.class
+br\com\fsma\aqstrab1\util\Autorizador.class
+br\com\fsma\aqstrab1\conexao\JPAUtil.class
+br\com\fsma\aqstrab1\bean\LoginBean.class

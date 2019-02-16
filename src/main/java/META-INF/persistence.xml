@@ -8,8 +8,6 @@
 	<persistence-unit name="postgres-local">
 		<provider>org.hibernate.ejb.HibernatePersistence</provider>
 		
-		<class>br.com.fsma.projeto_web.modelo.negocio.Usuario</class>
-		
 		<properties>
 			<property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver" />
 			<property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost/postgres" />

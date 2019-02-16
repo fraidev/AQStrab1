@@ -4,7 +4,7 @@
 	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
 	version="3.0">
 	
-	<display-name>projeto-web</display-name>
+	<display-name>aqstrab1</display-name>
 
 	<!-- Código utilizado pelo Tomcat para utilizar o CDI -->	
 	<resource-env-ref>

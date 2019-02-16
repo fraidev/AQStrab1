@@ -1,5 +1,5 @@
 <beans>
 	<interceptors>
-		<class>br.com.fsma.projeto_web.tx.GerenciadorDeTransacao</class>
+		<class>br.com.fsma.aqstrab1.tx.GerenciadorDeTransacao</class>
 	</interceptors>
 </beans>

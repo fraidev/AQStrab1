@@ -1,4 +1,4 @@
-package br.com.fsma.projeto_web.tx;
+package br.com.fsma.aqstrab1.tx;
 
 import java.io.Serializable;
 
